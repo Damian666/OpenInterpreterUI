@@ -50,7 +50,7 @@ jsonschema-specifications==2023.7.1
 kiwisolver==1.4.5
 langchain==0.0.305
 langsmith==0.0.41
-litellm==0.13.2
+litellm==1.44.8
 loguru==0.7.2
 lxml==4.9.3
 Markdown==3.4.4
